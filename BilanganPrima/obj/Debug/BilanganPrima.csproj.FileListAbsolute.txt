@@ -1,0 +1,7 @@
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\bin\Debug\BilanganPrima.exe.config
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\bin\Debug\BilanganPrima.exe
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\bin\Debug\BilanganPrima.pdb
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\obj\Debug\BilanganPrima.csproj.AssemblyReference.cache
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\obj\Debug\BilanganPrima.csproj.CoreCompileInputs.cache
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\obj\Debug\BilanganPrima.exe
+C:\Users\0264\Documents\GitHub\BilanganPrima\BilanganPrima\BilanganPrima\obj\Debug\BilanganPrima.pdb
