@@ -6,6 +6,6 @@ Console Application
 Program Console Application Menggunakan Visual Studio dengan bahasa Pemograman C# 
 
 Cara Menggunakan :
-Download Visual Studio 
+Download Microsoft Visual Studio 
 , Clone Code
 , Klik .sln
